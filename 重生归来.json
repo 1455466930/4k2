@@ -7,10 +7,13 @@
     {
 
             "key": "腾爱",
-                  "name": "👑滕殉-A站",
-                        "type": 3,
-        "playerType":2,             "api": "./lib/drpy2.min.js",  "ext": "./lib/tengxun.js",  "Status": 1,
-                                                	"Notice":0
+         "name": "👑滕殉-A站",
+        "type": 3,
+        "playerType":2,
+	"api": "./lib/drpy2.min.js",
+	"ext": "./lib/tengxun.js",  
+"Status": 1,
+
     },
     {
           "key": "drpy_js_奇珍异兽",
