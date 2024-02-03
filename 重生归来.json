@@ -11,8 +11,8 @@
         "type": 3,
         "playerType":2,
 	"api": "./lib/drpy2.min.js",
-	"ext": "./lib/tengxun.js",  
-"Status": 1
+	"ext": "./lib/tengxun.js"
+
 
     },
     {
