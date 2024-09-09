@@ -54,7 +54,7 @@
        "playerType":2,
        "quickSearch":1, "changeable":1, "filterable":1,
       "api": "https://10538.kstore.space/lib/drpy1.min.js",
-      "ext": "https://10538.kstore.space/lib/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js?password=c91b6c2efec97a4e04ca3430c2eccf9a-1725882091966"
+      "ext": "https://10538.kstore.space/lib/路漫漫.js"
     },
     
 
@@ -62,7 +62,7 @@
       "key": "4k路线",
       "name": "👑4k路线",
       "type": 3,
-      "api": "https://10538.kstore.space/lib/drpy1.min.js?password=7d21d1b1676dcbfb3a276a7db376dbfd-1725882091964",
+      "api": "https://10538.kstore.space/lib/drpy1.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -133,7 +133,7 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider":"https://10538.kstore.space/jar/xyy.jar?password=8ab9edc4cef2761fbbf7c2a2236fed32-1725892017135",
+"spider":"https://10538.kstore.space/jar/pg.jar",
 "wallpaper":"https://tool.weetai.cn/api",
 
 
