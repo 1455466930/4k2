@@ -55,7 +55,7 @@
        "playerType":2,
        "quickSearch":1, "changeable":1, "filterable":1,
       "api": "https://10538.kstore.space/lib/drpy1.min.js",
-      "ext": "https://10538.kstore.space/lib/路漫漫.json"
+      "ext": "https://10538.kstore.space/lib/路漫漫.js"
     },
     
 
