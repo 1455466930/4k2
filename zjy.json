@@ -35,7 +35,7 @@
             "quickSearch": 1,
             "filterable": 1,
            "jar": "./jar/XBPQ.jar",
-            "ext": "./金牌.json" },
+            "ext": "./lib/金牌.json" },
     
                    {
             "key": "ruituka1",
