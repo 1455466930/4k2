@@ -3,7 +3,8 @@
 
 
 "sites":[
- { "key": "lf_js_search", "name": "👑追剧鸭",  "type": 3,  "searchable": 0, "changeable": 1,  "quickSearch": 0,"filterable": 0, "api": "https://10538.kstore.space/lib/%E8%B1%86%E7%93%A3.js?password=2314ab2228267df4b5084f58162bc0f7-1725883880156"  },
+ { "key": "lf_js_search", "name": "👑追剧鸭",  "type": 3,  "searchable": 0, "changeable": 1,  "quickSearch": 0,"filterable": 0, 
+	 "api": "https://10538.kstore.space/lib/豆瓣.js"  },
   		{
 			"key": "网盘配置",
 			"name": "🛠️网盘设置🛠️",
@@ -22,10 +23,22 @@
 
      { "key": "天天", "name": "👑蓝光-A", "type": 3,  "playerType":2,"api": "csp_TTian", "ext": "http://op.ysdqjs.cn$$$null$$$1" },
      
-{ "key": "NanGua","name": "👑蓝光-B","type": 3, "playerType":2,"api": "csp_NanGua","searchable": 1,"changeable": 1, "ext": "null$$$1" },
+
  
          {
             "key": "ruituka",
+            "name": "👑蓝光-B",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+                "playerType":2,
+            "quickSearch": 1,
+            "filterable": 1,
+           "jar": "https://10538.kstore.space/jar/XBPQ.jar",
+            "ext": "https://10538.kstore.space/lib/金牌.json" },
+    
+                   {
+            "key": "ruituka1",
             "name": "👑蓝光-C",
             "type": 3,
             "api": "csp_XBPQ",
@@ -33,19 +46,7 @@
                 "playerType":2,
             "quickSearch": 1,
             "filterable": 1,
-           "jar": "https://10538.kstore.space/jar/XBPQ.jar?password=ec07417cfac5b44e2dd2f2e47a3bb0ae-1725881603885",
-            "ext": "https://10538.kstore.space/lib/%E9%87%91%E7%89%8C.json?password=8c5615ee0ef17e125f561f8a88cb52ad-1725882091966" },
-    
-                   {
-            "key": "ruituka1",
-            "name": "👑蓝光-D",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-                "playerType":2,
-            "quickSearch": 1,
-            "filterable": 1,
-           "jar": "https://10538.kstore.space/jar/XBPQ.jar?password=ec07417cfac5b44e2dd2f2e47a3bb0ae-1725881603885",
+           "jar": "https://10538.kstore.space/jar/XBPQ.jar",
             "ext": "./lib/北川影视.json" },
 
     {  "key": "drpy_js_路漫漫",
@@ -67,7 +68,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://10538.kstore.space/lib/xx.js?password=46ab68bace603dd10208cdb7e0cedd00-1725882091965"
+      "ext": "https://10538.kstore.space/lib/xx.js"
     },
       	{"key":"Wogg","name":"👑4k蓝光-A","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.333232.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
   
@@ -133,7 +134,7 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider":"https://10538.kstore.space/jar/pg.jar",
+"spider":"https://10538.kstore.space/jar/xyy.jar",
 "wallpaper":"https://tool.weetai.cn/api",
 
 
