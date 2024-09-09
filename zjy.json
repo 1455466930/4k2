@@ -7,7 +7,7 @@
 	 "api": "https://10538.kstore.space/lib/豆瓣.js"  },
   		{
 			"key": "网盘配置",
-			"name": "🛠️网盘设置🛠️",
+			"name": "🛠️设置🛠️",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
