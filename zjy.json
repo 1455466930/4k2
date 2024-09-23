@@ -61,14 +61,14 @@
 
   	    {
       "key": "4k路线",
-      "name": "👑4k路线",
+      "name": "👑4k路线-A",
       "type": 3,
       "api": "https://10538.kstore.space/lib/drpy1.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://10538.kstore.space/lib/xx.js"
+      "ext": "https://10538.kstore.space/lib/zjydj.js"
     },
       	{"key":"Wogg","name":"👑4k蓝光-A","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.333232.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
   
