@@ -55,7 +55,7 @@
        "playerType":2,
        "quickSearch":1, "changeable":1, "filterable":1,
       "api": "./lib/drpy1.min.js",
-      "ext": "https://10538.kstore.space/lib/路漫漫.js"
+      "ext": "./lib/路漫漫.js"
     },
     
 
@@ -70,7 +70,7 @@
       "order_num": 0,
       "ext": "https://10538.kstore.space/lib/zjydj.js"
     },
-      	{"key":"Wogg","name":"👑4k蓝光-A","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.333232.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+      	{"key":"Wogg","name":"👑4k蓝光-A主用","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.333232.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
   
 {"key":"秒搜","name":"👑4k蓝光B-仅搜索🔍","type":3,"api":"csp_MiaoSou","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"},
 {"key":"混合盘","name":"👑4k蓝光C-仅搜索🔍","type":3,"api":"csp_HunHePan","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"}],
