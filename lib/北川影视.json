@@ -25,7 +25,7 @@
     
     "分类url":"https://www.bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak",
     
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+    "分类":"电影$1#电视剧$2#综艺$3",
     
     "线路数组":"data-dropdown-value=&&</div>[不包含:站长蓝光]",
     
