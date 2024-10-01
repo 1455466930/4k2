@@ -47,7 +47,7 @@
        "playerType":1,
        "quickSearch":1, "changeable":1, "filterable":1,
       "api": "./lib/drpy1.min.js",
-      "ext": "./lib/路漫漫.js"
+      "ext": "https://10538.kstore.space/lib/路漫漫.js"
     },
  
         {
@@ -57,6 +57,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
+	 "playerType":2,	
       "ext": {
         "commonConfig": "./peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
@@ -70,6 +71,7 @@
       "type": 3,
       "api": "csp_Star2",
       "searchable": 1,
+  "playerType":2,
       "filterable": 0,
       "switchable": 0,
       "ext": {
@@ -85,6 +87,7 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
+ "playerType":2,
       "changeable": 0,
       "ext": {
         "commonConfig": "./peizhi.json"
@@ -100,6 +103,7 @@
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
+	     "playerType":1,
       "changeable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     }
