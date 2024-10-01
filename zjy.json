@@ -60,7 +60,7 @@
       "ext": {
         "commonConfig": "./peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
-        "filter": "./wogg.json"
+        "filter": "./lib/wogg.json"
       }
     },
     
