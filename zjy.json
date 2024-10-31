@@ -55,7 +55,7 @@
             "ext": {
                 "host": "http://cmsytv.lyyytv.cn/api.php/app/",
                 "*": [
-                    "https://laobeizi.icu/xy/jx.php?url=http://106.12.123.46:9996/parse.php?url=", 
+                    "https://laobeizi.icu/xy/jx.php?url=", 
                     "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
                 ]
             }
