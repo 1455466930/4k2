@@ -25,7 +25,7 @@
       "type": 3,
        "playerType":1,
        "quickSearch":1, "changeable":1, "filterable":1,
-      "api": "https://10538.kstore.space/js/drpy1.min.js",
+      "api": "https://10538.kstore.space/js/drpy2.min.js",
       "ext": "./lib/路漫漫.js"
     },
      			{
@@ -52,7 +52,7 @@
       "type": 3,
        "playerType":1,
        "quickSearch":1, "changeable":1, "filterable":1,
-      "api": "https://10538.kstore.space/js/drpy1.min.js",
+      "api": "https://10538.kstore.space/js/drpy2.min.js",
       "ext": "./lib/zjydj.js"
     },
     
