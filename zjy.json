@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/zx.txt",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729574905455/zx4k.jar",
   "sites": [
     {
       "key": "lf_js_search",
@@ -9,7 +9,7 @@
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "https://10538.kstore.space/lib/豆瓣.js"
+      "api": "./lib/豆瓣.js"
     },
     {
       "key": "ConfigCenter",
@@ -72,7 +72,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "https://10538.kstore.space/lib/zjydj.js"
+      "ext": "./lib/zjydj.js"
     },
     {
       "key": "玩偶gg",
@@ -143,5 +143,88 @@
       "playerType": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     }
+  ]
+}
+
+
+zx.txt
+
+
+1.2 MB   已下载
+
+{
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar",
+  "sites": [
+  { "key": "lf_js_search", "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",  "type": 3,  "searchable": 0, "changeable": 1,  "quickSearch": 0,"filterable": 0, 
+	 "api": "./lib/豆瓣.js"  },
+
+
+    
+         {
+            "key": "ruituka",
+            "name": "👑蓝光-A",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+                "playerType":2,
+            "quickSearch": 1,
+            "filterable": 1,
+           "jar": "./jar/XBPQ.jar",
+            "ext": "./lib/金牌.json" },
+    
+             
+ 
+    {  "key": "drpy_js_路漫漫",
+      "name": "👑动漫-A站",
+      "type": 3,
+       "playerType":1,
+       "quickSearch":1, "changeable":1, "filterable":1,
+      "api": "./lib/drpy1.min.js",
+      "ext": "./lib/路漫漫.js"
+    },
+     			{
+			"key": "csp_wanou",
+			"name": "网盘-4KA",
+			"api": "csp_Wogg",
+			"type": 3,
+			"searchable": 1,
+			"playerType": 2,
+			"timeout": 30,
+			"changeable": 0,
+			"ext": {
+				"site_urls": [
+					"https://wogg.xxooo.cf/",
+					"https://www.wogg.bf/",
+					"https://www.wogg.net/"
+				]
+			}
+		},
+		
+
+           {  "key": "drpy_路漫漫",
+      "name": "👑鸭鸭4k在线-B",
+      "type": 3,
+       "playerType":1,
+       "quickSearch":1, "changeable":1, "filterable":1,
+      "api": "./js/drpy1.min.js",
+      "ext": "./lib/zjydj.js"
+    },
+    
+    },
+    {"key":"秒搜","name":"👑4k网盘-B🔍","type":3,"api":"csp_MiaoSou", "jar":"./jar/xyy.jar","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"},
+{"key":"混合盘","name":"👑4k蓝光-C🔍","type":3,"api":"csp_HunHePan", "jar":"./jar/xyy.jar","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"},
+   
+ 
+    {
+      "key": "賤賤",
+      "name": "👑备用",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+        "playerType":1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+    }
+ 
   ]
 }
