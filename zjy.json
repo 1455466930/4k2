@@ -1,9 +1,17 @@
 {
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729574905455/zx4k.jar",
   "sites": [
-  { "key": "lf_js_search", "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",  "type": 3,  "searchable": 0, "changeable": 1,  "quickSearch": 0,"filterable": 0, 
-	 "api": "https://10538.kstore.space/lib/豆瓣.js"  },
-	     {
+    {
+      "key": "lf_js_search",
+      "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "./lib/豆瓣.js"
+    },
+    {
       "key": "ConfigCenter",
       "name": "🛠️网盘配置🛠️",
       "type": 3,
@@ -14,67 +22,65 @@
         "commonConfig": "./peizhi.json"
       }
     },
- 
-
-    
-         {
-            "key": "ruituka",
-            "name": "👑蓝光-A",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-                "playerType":2,
-            "quickSearch": 1,
-            "filterable": 1,
-           "jar": "./jar/XBPQ.jar",
-            "ext": "./lib/金牌.json" },
-    
-             
- 
-    {  "key": "drpy_js_路漫漫",
+    {
+      "key": "ruituka",
+      "name": "👑蓝光-A",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": "./lib/金牌.json"
+    },
+    {
+      "key": "drpy_js_路漫漫",
       "name": "👑动漫-A站",
       "type": 3,
-       "playerType":1,
-       "quickSearch":1, "changeable":1, "filterable":1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
       "api": "./js/drpy2.min.js",
       "ext": "./lib/路漫漫.js"
     },
-     	 {
-            "key": "君1君", 
-            "name": "👑鸭鸭在线4k-A", 
-            "playerType": 1, 
-            "type": 3, 
-            "changeable": 0,
-         
-             "playerType":2,    
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-        
-        		"api": "https://10538.kstore.space/lib/影腾.js",
-            "ext": {
-                "host": "http://cmsytv.lyyytv.cn/api.php/app/",
-                "*": [
-                    "https://laobeizi.icu/xy/jx.php?url=", 
-                    "https://laobeizi.icu/ck/jx.php?url="
-                ]
-            }
-        },
-           {  "key": "drpy_路漫漫",
+    {
+      "key": "君1君",
+      "name": "👑鸭鸭在线4k-A",
+      "playerType": 2,
+      "type": 3,
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lib/影腾.js",
+      "ext": {
+        "host": "http://cmsytv.lyyytv.cn/api.php/app/",
+        "*": [
+          "https://laobeizi.icu/xy/jx.php?url=",
+          "https://laobeizi.icu/ck/jx.php?url="
+        ]
+      }
+    },
+    {
+      "key": "drpy_路漫漫",
       "name": "👑鸭鸭4k在线-B",
       "type": 3,
-       "playerType":2,
-       "quickSearch":1, "changeable":1, "filterable":1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "https://10538.kstore.space/lib/zjydj.js"
+      "ext": "./lib/zjydj.js"
     },
-        {
+    {
       "key": "玩偶gg",
       "name": "👑网盘4k-A",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
-  "playerType":2,
+      "playerType": 2,
       "changeable": 0,
       "ext": {
         "commonConfig": "./peizhi.json",
@@ -82,39 +88,51 @@
         "filter": "./wogg.json"
       }
     },
-    
     {
       "key": "星剧社",
       "name": "👑网盘4k-B",
       "type": 3,
       "api": "csp_Star2",
       "searchable": 1,
-  "playerType":2,
+      "playerType": 2,
       "filterable": 0,
       "switchable": 0,
       "ext": {
         "commonConfig": "./peizhi.json"
       }
     },
- 
-
-    
     {
       "key": "盤搜索",
       "name": "👑4k网盘-A🔍",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
-  "playerType":2,
+      "playerType": 2,
       "changeable": 0,
       "ext": {
         "commonConfig": "./peizhi.json"
       }
     },
-    {"key":"秒搜","name":"👑4k网盘-B🔍","type":3,"api":"csp_MiaoSou", "jar":"./jar/xyy.jar","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"},
-{"key":"混合盘","name":"👑4k蓝光-C🔍","type":3,"api":"csp_HunHePan", "jar":"./jar/xyy.jar","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"},
-   
- 
+    {
+      "key": "秒搜",
+      "name": "👑4k网盘-B🔍",
+      "type": 3,
+      "api": "csp_MiaoSou",
+      "jar": "./jar/xyy.jar",
+      "playerType": 2,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "混合盘",
+      "name": "👑4k蓝光-C🔍",
+      "type": 3,
+      "api": "csp_HunHePan",
+      "jar": "./jar/xyy.jar",
+      "playerType": 2,
+      "timeout": 60,
+      "ext": "./lib/tokenm.json"
+    },
     {
       "key": "賤賤",
       "name": "👑备用",
@@ -122,9 +140,8 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-        "playerType":1,
+      "playerType": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     }
- 
   ]
 }
