@@ -30,7 +30,7 @@
     },
      			{
 			"key": "csp_wanou",
-			"name": "网盘-4KA",
+			"name": "👑网盘-4KA",
 			"api": "csp_Wogg",
 			"type": 3,
 			"searchable": 1,
@@ -46,7 +46,27 @@
 			}
 		},
 		
-
+  	 {
+            "key": "君1君", 
+            "name": "👑鸭鸭4k-A", 
+            "playerType": 1, 
+            "type": 3, 
+            "changeable": 0,
+         
+             "playerType":2,    
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+        
+        		"api": "./lib/影腾.js",
+            "ext": {
+                "host": "http://cmstv.lyyytv.cn/api.php/app/",
+                "*": [
+                    "https://laobeizi.icu/xy/jx.php?url=", 
+                    "https://laobeizi.icu/ck/jx.php?url="
+                ]
+            }
+        },
            {  "key": "drpy_路漫漫",
       "name": "👑鸭鸭4k在线-B",
       "type": 3,
