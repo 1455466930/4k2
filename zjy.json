@@ -56,7 +56,6 @@
       "ext": "./lib/zjydj.js"
     },
     
-    },
     {"key":"秒搜","name":"👑4k网盘-B🔍","type":3,"api":"csp_MiaoSou", "jar":"./jar/xyy.jar","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"},
 {"key":"混合盘","name":"👑4k蓝光-C🔍","type":3,"api":"csp_HunHePan", "jar":"./jar/xyy.jar","playerType":2,"timeout":60, "ext":"./lib/tokenm.json"}
    
