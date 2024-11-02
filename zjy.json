@@ -15,29 +15,8 @@
         "commonConfig": "./peizhi.json"
       }
     },
-    {
-      "key": "ruituka",
-      "name": "👑蓝光-A",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/XBPQ.jar",
-      "ext": "./lib/金牌.json"
-    },
-    {
-      "key": "drpy_js_路漫漫",
-      "name": "👑动漫-A站",
-      "type": 3,
-      "playerType": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/路漫漫.js"
-    },
+
+ 
     {
       "key": "君1君",
       "name": "👑鸭鸭在线4k-A",
@@ -51,16 +30,16 @@
       "ext": {
         "host": "http://cmsytv.lyyytv.cn/api.php/app/",
         "*": [
-          "https://laobeizi.icu/xy/jx.php?url=",
-          "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+          "https://laobeizi.icu/xy/jx.php?url="
+         
         ]
       }
     },
     {
-      "key": "drpy_路漫漫",
+      "key": "drpy_",
       "name": "👑鸭鸭4k在线-B",
       "type": 3,
-      "playerType": 1,
+      "playerType": 2,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -72,6 +51,7 @@
       "name": "👑网盘4k-A",
       "type": 3,
       "api": "csp_Wogg",
+	  "playerType": 2,   
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -86,6 +66,7 @@
       "type": 3,
       "api": "csp_Star2",
       "searchable": 1,
+  "playerType": 2,
       "filterable": 0,
       "switchable": 0,
       "ext": {
@@ -98,88 +79,36 @@
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
+ "playerType": 2,  
       "changeable": 0,
       "ext": {
         "commonConfig": "./peizhi.json"
       }
     },
-    {
-      "key": "秒搜",
-      "name": "👑4k网盘-B🔍",
-      "type": 3,
-      "api": "csp_MiaoSou",
-      "jar": "./jar/xyy.jar",
-      "playerType": 2,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json"
-    },
-    {
-      "key": "混合盘",
-      "name": "👑4k蓝光-C🔍",
-      "type": 3,
-      "api": "csp_HunHePan",
-      "jar": "./jar/xyy.jar",
-      "playerType": 2,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json"
-    },
- 
-    
+  
          {
-            "key": "ruituka",
-            "name": "👑蓝光-A",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-                "playerType":2,
-            "quickSearch": 1,
-            "filterable": 1,
-           "jar": "./jar/XBPQ.jar",
-            "ext": "./lib/金牌.json" },
-    
-             
+      "key": "ruituka",
+      "name": "👑蓝光-A",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://qn6z7b.yun.42jx.com/zjy/jar/xbpq.txt",
+      "ext": "./lib/金牌.json"
+    },       
  
     {  "key": "drpy_js_路漫漫",
       "name": "👑动漫-A站",
       "type": 3,
-       "playerType":1,
+       "playerType":2,
        "quickSearch":1, "changeable":1, "filterable":1,
       "api": "https://10538.kstore.space/js/drpy2.min.js",
       "ext": "./lib/路漫漫.js"
-    },
- 
-		
-  	 {
-            "key": "君1君", 
-            "name": "👑鸭鸭4k-A", 
-            "playerType": 1, 
-            "type": 3, 
-            "changeable": 0,
-         
-             "playerType":2,    
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-        
-        		"api": "./lib/影腾.js",
-            "ext": {
-                "host": "http://cmstv.lyyytv.cn/api.php/app/",
-                "*": [
-                    "https://laobeizi.icu/xy/jx.php?url=", 
-                    "https://laobeizi.icu/ck/jx.php?url="
-                ]
-            }
-        },
-           {  "key": "drpy腾",
-      "name": "👑鸭鸭4k在线-B",
-      "type": 3,
-       "playerType":1,
-       "quickSearch":1, "changeable":1, "filterable":1,
-      "api": "https://10538.kstore.space/js/drpy2.min.js",
-      "ext": "./lib/zjydj.js"
     }
  
-  
+		
  
   ]
 }
