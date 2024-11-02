@@ -177,7 +177,7 @@
        "quickSearch":1, "changeable":1, "filterable":1,
       "api": "https://10538.kstore.space/js/drpy2.min.js",
       "ext": "./lib/zjydj.js"
-    },
+    }
  
   
  
