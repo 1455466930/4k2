@@ -123,16 +123,7 @@
       "timeout": 60,
       "ext": "./lib/tokenm.json"
     },
-    {
-      "key": "賤賤",
-      "name": "👑备用",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-    }
+ 
     
          {
             "key": "ruituka",
