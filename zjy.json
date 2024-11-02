@@ -30,7 +30,8 @@
       "ext": {
         "host": "http://cmsytv.lyyytv.cn/api.php/app/",
         "*": [
-          "https://laobeizi.icu/xy/jx.php?url="
+          "https://laobeizi.icu/xy/jx.php?url=",
+	 "https://laobeizi.icu/jx/jx.php?url="
          
         ]
       }
@@ -44,7 +45,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "./lib/zjydj.js"
+      "ext": "https://10538.kstore.space/lib/zjydj.js"
     },
     {
       "key": "玩偶gg",
@@ -108,7 +109,24 @@
       "ext": "./lib/路漫漫.js"
     }
  
-		
- 
-  ]
+  ],
+"parses": [
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+        
+        {
+      "name": "鸭鸭",
+      "type": 1,
+      "url": "https://laobeizi.icu/jx/jx.php?url="
+     
+    }
+  ]	
 }
