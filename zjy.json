@@ -28,7 +28,7 @@
       "filterable": 1,
       "api": "./lib/影腾.js",
       "ext": {
-        "host": "http://cmsytv.cn/api.php/app/",
+        "host": "http://cmstv.cn/api.php/app/",
         "*": [
           "https://laobeizi.icu/xy/jx.php?url=",
 	 "https://laobeizi.icu/jx/jx.php?url="
