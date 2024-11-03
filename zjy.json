@@ -45,7 +45,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "https://10538.kstore.space/lib/zjydj.js"
+      "ext": "./lib/zjydj.js"
     },
     {
       "key": "玩偶gg",
@@ -105,7 +105,7 @@
       "type": 3,
        "playerType":2,
        "quickSearch":1, "changeable":1, "filterable":1,
-      "api": "https://10538.kstore.space/js/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./lib/路漫漫.js"
     }
  
