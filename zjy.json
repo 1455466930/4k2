@@ -75,15 +75,40 @@
       }
     },
     {
+      "key": "玩偶 | 木偶",
+      "name": "👑网盘4k-C",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "http://mogg.xn--yetu07f.top/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
       "key": "盤搜索",
       "name": "👑4k网盘-A🔍",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
- "playerType": 2,  
       "changeable": 0,
       "ext": {
         "commonConfig": "./peizhi.json"
+      }
+    },
+    {
+      "key": "网盘集合",
+      "name": "👑网盘集合|4K",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "share": "https://10538.kstore.space/json/网盘集合.json"
       }
     },
   
