@@ -47,6 +47,17 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/zjydj.js"
     },
+	   {
+      "key": "drpy_sss",
+      "name": "👑鸭鸭4k在线-c",
+      "type": 3,
+      "playerType": 2,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "http://qn6z7b.yun.42jx.com/zjy/json/mg.js"
+    },  
     {
       "key": "玩偶gg",
       "name": "👑网盘4k-A",
@@ -150,7 +161,7 @@
         {
       "name": "鸭鸭",
       "type": 1,
-      "url": "https://laobeizi.icu/jx/jx.php?url="
+      "url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url="
      
     }
   ]	
