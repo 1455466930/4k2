@@ -56,7 +56,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "http://qn6z7b.yun.42jx.com/zjy/json/mg.js"
+      "ext": "http://115.231.220.139:8555/uploads/tvbox/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C[%E5%AE%98].js"
     },  
     {
       "key": "玩偶gg",
@@ -159,7 +159,7 @@
     },
         
         {
-      "name": "鸭鸭",
+      "name": "鸭鸭4K",
       "type": 1,
       "url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url="
      
