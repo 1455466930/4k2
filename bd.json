@@ -1,0 +1,155 @@
+{
+  "spider": "assets://js/custom_spider.jar",
+  "sites": [
+  { "key": "lf_js_search", "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",  "type": 3,  "searchable": 0, "changeable": 1,  "quickSearch": 0,"filterable": 0, 
+	 "api": "./lib/豆瓣.js"  },
+	      {
+      "key": "lf_js_search",
+      "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "assets://js/豆瓣.js"
+    },
+    {
+      "key": "ConfigCenter",
+      "name": "🛠️网盘配置🛠️",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json"
+      }
+    },
+    {
+      "key": "ruituka",
+      "name": "👑蓝光-A",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "assets://js/XBPQ.jar",
+      "ext": "assets://js/金牌.json"
+    },
+    {
+      "key": "drpy_js_路漫漫",
+      "name": "👑动漫-A站",
+      "type": 3,
+      "playerType": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "assets://js/路漫漫.js"
+    },
+    {
+      "key": "君1君",
+      "name": "👑鸭鸭在线4k-A",
+      "playerType": 2,
+      "type": 3,
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "assets://js/影腾.js",
+      "ext": {
+        "host": "http://cmstv.lyyytv.cn/api.php/app/",
+        "*": [
+   
+          "http://qn6z7b.yun.42jx.com/jx/jx.php?url="
+     
+        ]
+      }
+    },
+
+    {
+      "key": "玩偶gg",
+      "name": "👑网盘4k-A",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "星剧社",
+      "name": "👑网盘4k-B",
+      "type": 3,
+      "api": "csp_Star2",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json"
+      }
+    },
+       {
+      "key": "玩偶 | 木偶",
+      "name": "👑网盘4k-C",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "siteUrl": "http://mogg.xn--yetu07f.top/",
+        "filter": "./wogg.json"
+      }
+    },
+    {
+      "key": "盤搜索",
+      "name": "👑4k网盘-A🔍",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json"
+      }
+    },
+    
+      {
+      "key": "网盘集合",
+      "name": "👑网盘集合|4K",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json",
+        "share": "./json/网盘集合.json"
+      }
+    }
+    ],
+   
+       "parses": [
+    {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+        
+        {
+      "name": "zhuimi-super",
+      "type": 1,
+      "url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url="
+   
+    }
+  ]
+
+}
