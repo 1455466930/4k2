@@ -11,7 +11,7 @@
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "api": "assets://js/豆瓣.js"
+      "api": "assets://js/db.js"
     },
     {
       "key": "ConfigCenter",
@@ -34,7 +34,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "assets://js/XBPQ.jar",
-      "ext": "assets://js/金牌.json"
+      "ext": "assets://js/jp.json"
     },
     {
       "key": "drpy_js_路漫漫",
@@ -45,7 +45,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "assets://js/路漫漫.js"
+      "ext": "assets://js/lmm.js"
     },
     {
       "key": "君1君",
@@ -56,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "assets://js/影腾.js",
+      "api": "assets://js/yt.js",
       "ext": {
         "host": "http://cmstv.lyyytv.cn/api.php/app/",
         "*": [
@@ -66,7 +66,27 @@
         ]
       }
     },
-
+	    {
+      "key": "drpy_sss",
+      "name": "👑鸭鸭在线4k-B",
+      "type": 3,
+      "playerType": 2,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "assets://js/cg.js"
+    
+    {
+      "key": "drpy",
+      "name": "👑鸭鸭在线4k-C",
+      "type": 3,
+      "playerType": 2,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "assets://js/mg.js"
     {
       "key": "玩偶gg",
       "name": "👑网盘4k-A",
