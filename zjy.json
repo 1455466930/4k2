@@ -23,7 +23,7 @@
 
         "commonConfig": "/peizhi.json",
 
-        "filter": "./json/douban.json"
+        "filter": "./lib/douban.json"
 
       }
 
