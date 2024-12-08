@@ -1,9 +1,34 @@
 {
-  "spider": "http://qn6z7b.yun.42jx.com/zjy/jar/zx.txt",
+  "spider": "http://qn6z7b.yun.42jx.com/zjy/jar/yyzj.jar;md5;43989964965deab2a4b6b48251043412",
   "sites": [
-  { "key": "lf_js_search", "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",  "type": 3,  "searchable": 0, "changeable": 1,  "quickSearch": 0,"filterable": 0, 
-	 "api": "./lib/豆瓣.js"  },
+  
+     {
 
+      "key": "Tg | 豆瓣",
+
+      "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",
+
+      "type": 3,
+
+      "api": "csp_TgYunDouBanPan",
+
+      "searchable": 1,
+
+      "changeable": 0,
+      "ext": {
+
+        "siteUrl": "http://127.0.0.1:9999",
+
+        "channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+
+        "commonConfig": "/peizhi.json",
+
+        "filter": "./json/douban.json"
+
+      }
+
+    },
+	  
    {
       "key": "ConfigCenter",
       "name": "🛠️网盘配置🛠️",
@@ -18,24 +43,16 @@
 
  
     {
-      "key": "君1君",
-      "name": "👑鸭鸭在线4k-A",
-      "playerType": 2,
+      "key": "drp",
+      "name": "👑鸭鸭4k在线-A",
       "type": 3,
-      "changeable": 0,
-      "searchable": 1,
+      "playerType": 2,
       "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
-      "api": "./lib/影腾.js",
-      "ext": {
-        "host": "http://cmstv.lyyytv.cn/api.php/app/",
-        "*": [
-          "https://laobeizi.icu/xy/jx.php?url=",
-	 "https://laobeizi.icu/jx/jx.php?url="
-         
-        ]
-      }
-    },
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/yt.json"
+    }
     {
       "key": "drpy_",
       "name": "👑鸭鸭4k在线-B",
@@ -68,7 +85,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "./peizhi.json",
-        "siteUrl": "https://www.wogg.bf/",
+        "siteUrl": "https://www.wogg.net/",
         "filter": "./wogg.json"
       }
     },
@@ -98,6 +115,30 @@
         "filter": "./wogg.json"
       }
     },
+	     {
+
+      "key": "玩偶 | 蜡笔",
+
+      "name": "👑网盘4k-D",
+
+      "type": 3,
+
+      "api": "csp_kongbai",
+
+      "searchable": 1,
+
+      "changeable": 0,
+   "ext": {
+
+        "commonConfig": "http://qn6z7b.yun.42jx.com/zjy/json/peizhi.json",
+
+        "siteUrl": "http://labipan.com/",
+
+        "filter": "/wogg.json"
+
+      }
+
+    },	     
     {
       "key": "盤搜索",
       "name": "👑4k网盘-A🔍",
