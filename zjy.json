@@ -53,7 +53,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "http://115.231.220.139:8555/uploads/tvbox/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C[%E5%AE%98].js"
+      "ext": "./js/mg.js"
     },  
 	    {
         "key": "csp_zhufan",
