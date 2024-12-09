@@ -1,5 +1,6 @@
 {
   "spider": "http://qn6z7b.yun.42jx.com/zjy/jar/yyzj.jar;md5;43989964965deab2a4b6b48251043412",
+  "wallpaper": "https://api.likepoems.com/img/bing",	
   "sites": [
   
      {
@@ -17,7 +18,7 @@
       "changeable": 0,
       "ext": {
 
-        "siteUrl": "http://127.0.0.1:9999",
+        "siteUrl": "http://tgsou.seczh.com",
 
         "channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
 
@@ -209,5 +210,30 @@
       "url": "http://qn6z7b.yun.42jx.com/jx/jx.php?url="
      
     }
-  ]	
+  ],	
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "stream-link.org",
+        "hinet.net",
+        "koyeb.app",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        "*.t4tv.hz.cz",
+        ".*ulivetv.*"
+      ]
+    }
+    ]
 }
