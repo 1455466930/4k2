@@ -42,8 +42,9 @@
     },
 
  
-    {
-      "key": "drp",
+  
+	   {
+      "key": "drpy_sss",
       "name": "👑鸭鸭4k在线-A",
       "type": 3,
       "playerType": 2,
@@ -51,29 +52,22 @@
       "changeable": 1,
       "filterable": 1,
       "api": "./js/drpy2.min.js",
-      "ext": "./lib/yt.json"
-    },
-    {
-      "key": "drpy_",
-      "name": "👑鸭鸭4k在线-B",
-      "type": 3,
-      "playerType": 2,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/zjydj.js"
-    },
-	   {
-      "key": "drpy_sss",
-      "name": "👑鸭鸭4k在线-c",
-      "type": 3,
-      "playerType": 2,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "api": "./js/drpy2.min.js",
       "ext": "http://115.231.220.139:8555/uploads/tvbox/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C[%E5%AE%98].js"
+    },  
+	    {
+        "key": "csp_zhufan",
+        "name": "👑鸭鸭在线4k-B",
+        "searchable": 1,
+        "quickSearch": 1,
+        "type": 3,
+        "api": "csp_MiTo",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d",	
+        "ext": {
+           "url": "http://xiafan.zhuiju666.com",
+           "dataKey": "aassddwwxxllsx1x",
+           "playKey": "bbssqdbbssll25sx",
+           "version": "1.1.0"
+         }
     },  
     {
       "key": "玩偶gg",
@@ -130,7 +124,7 @@
       "changeable": 0,
    "ext": {
 
-        "commonConfig": "http://qn6z7b.yun.42jx.com/zjy/json/peizhi.json",
+        "commonConfig": "./peizhi.json",
 
         "siteUrl": "http://labipan.com/",
 
@@ -160,7 +154,7 @@
       "switchable": 0,
       "ext": {
         "commonConfig": "./peizhi.json",
-        "share": "https://10538.kstore.space/json/网盘集合.json"
+        "share": "http://qn6z7b.yun.42jx.com/zjy/json/网盘集合.json"
       }
     },
   
@@ -175,7 +169,17 @@
       "filterable": 1,
       "jar": "http://qn6z7b.yun.42jx.com/zjy/jar/xbpq.txt",
       "ext": "./lib/金牌.json"
-    },       
+    },     
+	  	  {
+      "key": "xppg",
+      "name": "👑蓝光-B",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+"jar": "./jar/spider.jar",
+      "filterable": 1
+    },
  
     {  "key": "drpy_js_路漫漫",
       "name": "👑动漫-A站",
