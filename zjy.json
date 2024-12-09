@@ -5,7 +5,7 @@
   
   "sites": [
   { "key": "lf_js_search", "name": "👑追剧鸭提示网盘类型先用网盘扫码才能观看",  "type": 3,  "searchable": 0, "changeable": 1,  "quickSearch": 0,"filterable": 0, 
-	 "api": "./lib/js/豆瓣.js"  },
+	 "api": "./lib/豆瓣.js"  },
 	  
    {
       "key": "ConfigCenter",
