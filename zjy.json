@@ -134,7 +134,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/wogg.json?"
+            "ext": "./js/wogg.json"
         },
         {
             "key": "木偶",
@@ -144,7 +144,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/mogg.json?"
+            "ext": "./js/mogg.json"
         },
         {
             "key": "蜡笔",
@@ -155,7 +155,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/lb.json?"
+            "ext": "./js/lb.json"
         },
         {
             "key": "小米",
@@ -166,7 +166,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/xm.json?"
+            "ext": "./js/xm.json"
         },
         {
             "key": "至臻",
@@ -177,7 +177,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/zz.json?"
+            "ext": "./js/zz.json"
         },
         {
             "key": "多多",
@@ -188,7 +188,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/yyds.json?"
+            "ext": "./js/yyds.json"
         },
         {
             "key": "欧哥",
@@ -199,7 +199,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/og.json?"
+            "ext": "./js/og.json"
         },
         {
             "key": "二小",
@@ -210,7 +210,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/ex.json?"
+            "ext": "./js/ex.json"
         },
         {
             "key": "百家",
@@ -221,7 +221,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/bj.json?"
+            "ext": "./js/bj.json"
         },
         {
             "key": "大玩",
@@ -232,7 +232,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/dawo.json?"
+            "ext": "./js/dawo.json"
         },
         {
             "key": "虎斑",
@@ -243,7 +243,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/hb.json?"
+            "ext": "./js/hb.json"
         },
         {
             "key": "闪电",
@@ -254,7 +254,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/sd.json?"
+            "ext": "./js/sd.json"
         },
         {
             "key": "下饭",
@@ -265,7 +265,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/xf.json?"
+            "ext": "./js/xf.json"
         },
         {
             "key": "团长",
@@ -290,7 +290,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "ext": "./js/lj.json?"
+            "ext": "./js/lj.json"
         },
         {
             "key": "概念",
@@ -305,7 +305,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "ext": "./js/hm.json?"
+            "ext": "./js/hm.json"
         },
         {
             "key": "Pan1",
@@ -320,7 +320,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "ext": "./js/pan1.json?"
+            "ext": "./js/pan1.json"
         },
         {
             "key": "趣盘",
